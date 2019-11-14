@@ -1,0 +1,4 @@
+BUILD_VERSION = "0.1"
+BUILD_AUTHORS = "Chrono#2050"
+BUILD_CODENAME = "Python"
+BUILD_DATE = "November 7th, 2019"
